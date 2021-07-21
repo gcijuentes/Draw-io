@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2021-07-21T21:07:47.718Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="kdvoRugmwE-GUaeA6kZi" version="14.9.0" type="github">
-  <diagram id="EXLHMDaifDddQzuxBUXZ" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2021-07-21T21:40:45.096Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="a9KsL5lRC-JWl9I-wuaS" version="14.9.0" type="github" pages="2">
+  <diagram id="EXLHMDaifDddQzuxBUXZ" name="Impresos">
     <mxGraphModel dx="1185" dy="643" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -32,6 +32,56 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="670" y="470" as="sourcePoint" />
             <mxPoint x="720" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="xvRes7LxJYF53H5sxymf" name="Buscones">
+    <mxGraphModel dx="1221" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="7_Rk7xCm0eicdHYlJep_-0" />
+        <mxCell id="7_Rk7xCm0eicdHYlJep_-1" parent="7_Rk7xCm0eicdHYlJep_-0" />
+        <mxCell id="d79rhtWKYqdiNp4z9XPF-0" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="7_Rk7xCm0eicdHYlJep_-1">
+          <mxGeometry x="150" y="440" width="90" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="d79rhtWKYqdiNp4z9XPF-1" value="Modelo Impresos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7_Rk7xCm0eicdHYlJep_-1">
+          <mxGeometry x="175" y="485" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d79rhtWKYqdiNp4z9XPF-2" value="" style="group" vertex="1" connectable="0" parent="7_Rk7xCm0eicdHYlJep_-1">
+          <mxGeometry x="160" y="285" width="203" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="d79rhtWKYqdiNp4z9XPF-3" value="&lt;span style=&quot;font-size: 15px&quot;&gt;Batch&amp;nbsp;&lt;/span&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;strokeWidth=3;fillColor=#dae8fc;" vertex="1" parent="d79rhtWKYqdiNp4z9XPF-2">
+          <mxGeometry width="197.2" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="d79rhtWKYqdiNp4z9XPF-4" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.clock;fillColor=none;" vertex="1" parent="d79rhtWKYqdiNp4z9XPF-2">
+          <mxGeometry x="11.6" y="9" width="17.4" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="d79rhtWKYqdiNp4z9XPF-5" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="7_Rk7xCm0eicdHYlJep_-1" source="d79rhtWKYqdiNp4z9XPF-0" target="d79rhtWKYqdiNp4z9XPF-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="310" as="sourcePoint" />
+            <mxPoint x="760" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d79rhtWKYqdiNp4z9XPF-6" value="Fichero generado&amp;nbsp;&lt;br&gt;de forma diaria" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="7_Rk7xCm0eicdHYlJep_-1">
+          <mxGeometry x="440" y="300" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d79rhtWKYqdiNp4z9XPF-7" value="" style="endArrow=classic;html=1;" edge="1" parent="7_Rk7xCm0eicdHYlJep_-1" source="d79rhtWKYqdiNp4z9XPF-3" target="d79rhtWKYqdiNp4z9XPF-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="330" as="sourcePoint" />
+            <mxPoint x="710" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d79rhtWKYqdiNp4z9XPF-18" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="7_Rk7xCm0eicdHYlJep_-1">
+          <mxGeometry x="290" y="440" width="90" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="d79rhtWKYqdiNp4z9XPF-19" value="Modelo Buscones" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7_Rk7xCm0eicdHYlJep_-1">
+          <mxGeometry x="315" y="485" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d79rhtWKYqdiNp4z9XPF-21" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="7_Rk7xCm0eicdHYlJep_-1" source="d79rhtWKYqdiNp4z9XPF-18" target="d79rhtWKYqdiNp4z9XPF-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="460" as="sourcePoint" />
+            <mxPoint x="240" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
